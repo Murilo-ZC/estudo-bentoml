@@ -99,10 +99,10 @@ A codificação cíclica resolve isso transformando a variável temporal em duas
 As fórmulas são:
 
 $$
-\text{seno} = \sin\left(\frac{2 \pi \cdot \text{valor\_original}}{\text{valor\_maximo}}\right)
+\text{seno} = \sin\left(\frac{2 \pi \cdot \text{valor original}}{\text{valor maximo}}\right)
 $$
 $$
-\text{cosseno} = \cos\left(\frac{2 \pi \cdot \text{valor\_original}}{\text{valor\_maximo}}\right)
+\text{cosseno} = \cos\left(\frac{2 \pi \cdot \text{valor original}}{\text{valor maximo}}\right)
 $$
 
 Com essa transformação:
